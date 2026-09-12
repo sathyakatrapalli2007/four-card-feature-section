@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-* **Solution URL:** https://www.frontendmentor.io/solutions/your-solution-link
-* **Live Site URL:** https://your-live-site-url.com
+* **Solution URL:** https://github.com/sathyakatrapalli2007/four-card-feature-section
+* **Live Site URL:**https://sathyakatrapalli2007.github.io/four-card-feature-section/
 
 ---
 
@@ -82,8 +82,8 @@ I used AI mainly for guidance, debugging, and understanding concepts while imple
 
 ## Author
 
-* **Frontend Mentor:** https://www.frontendmentor.io/profile/yourusername
-* **GitHub:** https://github.com/yourusername
+* **Frontend Mentor:** https://www.frontendmentor.io
+* **GitHub:** https://github.com/sathyakatrapalli2007
 
 ---
 
